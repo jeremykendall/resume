@@ -78,34 +78,6 @@ the Quality Analyzer scoring in the Research Central section.
  * Designed and implemented a front-end for an in-house web form generator using Zend Framework's MVC implementation. Time spent creating forms went from 5-10 minutes per form to less than 30 seconds per form.
  * Worked with another developer to build a Zend Framework extensions library to address specific business needs at St. Jude.
 
-### ACS, Inc., Memphis, TN
-#### Certified LANDesk Administrator - May 2004 to June 2007
-
- * Responsible for supporting 3000+ end users in office and field environment.
- * Responsible for building, testing, and deploying the LANDesk client to unmanaged devices on the City of Memphis network.
- * Building, testing, and deploying software distribution packages, building queries and reports, troubleshooting and maintenance of the LANDesk installation, Tier 2/Tier 3 support of Help Desk and Field Technicians.
-
-### Auction123.com, Memphis, TN
-#### Territory Agent - January 2004 to April 2004
-
- * Responsible for taking pictures of and documenting vehicles for eventual listing on eBay Motors.
- * Responsible for the listing of those vehicles on eBay Motors, ensuring the accuracy of the listing and the quality of the vehicle photographs, data entry, and listing scheduling.
- * Included intense customer service work, both on-site with the client and by telephone and e-mail.
-
-### FedEx Express, Memphis, TN
-#### Technical Support Rep - August 2001 to November 2003
-
- * Built and maintained database driven intranet websites for user and project support. Utilized ASP, PHP, Access, MySQL.
- * Responsible for supporting 2000+ end users in office environment. Also responsible for supporting the network operations, devices, and software required by the end users and general business operations.
- * Specific responsibilities include installing and maintaining network hardware, adding and removing physical network connections (cross connection network jacks to physical devices), hardware and software installation and troubleshooting, end user phone and trouble ticket support.
-
-### RHI Consulting, Memphis, TN
-#### Technical Support (on site at FedEx Express) - January 2001 to August 2001
-
- * Participated in a 300 unit new PC roll out program. Responsible for configuration and testing of new PCs, end user support for new PCs, co-authoring and web enabling support documentation for new PCs.
- * Responsible for hardware, OS, and software upgrades for older PCs that were involved in a refurbishing effort related to the new PC roll out.
- * Co-authored field technician instruction set and adapted that set to HTML.
-
 ## Education 
 University of Memphis, Memphis, TN
 Electronics Engineering Technology
