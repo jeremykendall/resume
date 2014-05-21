@@ -1,12 +1,15 @@
 # Jeremy Kendall
 
- * Nashville, TN
+ * Memphis, TN
  * http://about.me/jeremykendall
- * http://mojolive.com/profile/jeremykendall
+ * https://github.com/jeremykendall
 
 ## Background 
 
-I’ve been developing for the web since 2001, taking a special interest in best-practices and test driven development.  While I develop primarily in PHP, I’ve had some significant prior experience with Java, and have dabbled in many other languages including Ruby and JavaScript.
+I’ve been developing for the web since 2001, taking a special interest in
+best-practices and test driven development.  While I develop primarily in PHP,
+I’ve had some significant experience with Java, and have dabbled in many other
+languages including Ruby and JavaScript.
 
 ## Community Involvement 
 
@@ -17,17 +20,23 @@ I’ve been developing for the web since 2001, taking a special interest in best
 ## Open Source Contributions
 
 At various times I have contributed to:
+ * [Slim](https://github.com/codeguy/Slim)
+ * [purl](https://github.com/jwage/purl)
  * [FRAPI](https://github.com/frapi/frapi)
  * [capifony](https://github.com/everzet/capifony)
  * [dwolla-php](https://github.com/Dwolla/dwolla-php)
  * [joind.in](https://github.com/joindin/joind.in)
+ * ... [and others](https://github.com/jeremykendall)
 
 ## Work Experience 
 
 ### OpenSky, Nashville, TN
-#### Software Engineer - February 2013 to Present
+#### Software Engineer - February 2013 to May 2014
 
-I build cool things.
+ * Built cool things for the OpenSky social shopping platform
+ * Responsible for maintenance and new feature development
+ * Wrote lots of unit and regressions tests, helping to maintain and improve already excellent test coverage
+ * Tech used: Symfony2, Mongo, MySQL, nginx, Apache, VirtualBox, PHPUnit, JIRA, and Jenkins CI, among others
 
 ### Raven Internet Marketing Tools, Nashville, TN
 #### Developer - October 2012 to January 2013
