@@ -17,18 +17,37 @@ languages including Ruby and JavaScript.
  * Frequently presented at Memphis PHP
  * Infrequent presenter at [other events](http://joind.in/user/view/851)
 
+## Open Source Libraries Authored
+
+I have authored several popular open source libraries:
+
+ * [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser): Public Suffix List based domain parsing implemented in PHP.
+ * [Query Auth](https://github.com/jeremykendall/query-auth): Signature generation and validation for REST API query authentication.
+ * [Password Validator](https://github.com/jeremykendall/password-validator): Makes upgrading to secure password hashing both simple and easy.
+ * [Slim Auth](https://github.com/jeremykendall/slim-auth): Authorization and authentication for the Slim Framework (work in progress; used in production at [365.jeremykendall.net](http://365.jeremykendall.net).
+
 ## Open Source Contributions
 
 At various times I have contributed to:
+
  * [Slim](https://github.com/codeguy/Slim)
  * [purl](https://github.com/jwage/purl)
+ * [Aura.Uri](https://github.com/auraphp/Aura.Uri)
+ * [Phansible](https://github.com/Phansible/phansible)
  * [FRAPI](https://github.com/frapi/frapi)
  * [capifony](https://github.com/everzet/capifony)
  * [dwolla-php](https://github.com/Dwolla/dwolla-php)
  * [joind.in](https://github.com/joindin/joind.in)
- * ... [and others](https://github.com/jeremykendall)
+ * ... [among others](https://github.com/jeremykendall)
 
 ## Work Experience 
+
+### Graph Story, Memphis, TN
+#### CTO and Lead Developer - May 2014 to Present
+
+ * Responsible for planning, purchase, and implementation of IT infrastructure
+ * Project lead and lead developer on all technology projects
+ * Developed and deployed an automation plan for entire Graph Story infrastructure
 
 ### OpenSky, Nashville, TN
 #### Software Engineer - February 2013 to May 2014
