@@ -4,14 +4,14 @@
  * http://about.me/jeremykendall
  * https://github.com/jeremykendall
 
-## Background 
+## Background
 
 I’ve been developing for the web since 2001, taking a special interest in
 best-practices and test driven development.  While I develop primarily in PHP,
 I’ve had some significant experience with Java, and have dabbled in many other
 languages including Ruby and JavaScript.
 
-## Community Involvement 
+## Community Involvement
 
  * Founded and organized [Memphis PHP](http://memphisphp.org)
  * Frequently presented at Memphis PHP
@@ -40,14 +40,16 @@ At various times I have contributed to:
  * [joind.in](https://github.com/joindin/joind.in)
  * ... [among others](https://github.com/jeremykendall)
 
-## Work Experience 
+## Work Experience
 
 ### Graph Story, Memphis, TN
-#### CTO and Lead Developer - May 2014 to Present
+#### CTO - May 2014 to Present
 
  * Responsible for planning, purchase, and implementation of IT infrastructure
- * Project lead and lead developer on all technology projects
- * Developed and deployed an automation plan for entire Graph Story infrastructure
+ * Project lead and lead developer on all projects (until mid-2015 when we hired a lead dev)
+ * Automated the entire Graph Story infrastructure using Ansible and multiple cloud provider APIs
+ * Created an API to manage Neo4j so customers could manage their own instances
+ * Built out client projects from concept to delivery using Neo4j and Java or PHP
 
 ### OpenSky, Nashville, TN
 #### Software Engineer - February 2013 to May 2014
@@ -106,7 +108,7 @@ the Quality Analyzer scoring in the Research Central section.
  * Designed and implemented a front-end for an in-house web form generator using Zend Framework's MVC implementation. Time spent creating forms went from 5-10 minutes per form to less than 30 seconds per form.
  * Worked with another developer to build a Zend Framework extensions library to address specific business needs at St. Jude.
 
-## Education 
+## Education
 University of Memphis, Memphis, TN
 Electronics Engineering Technology
 1995 - 1998
