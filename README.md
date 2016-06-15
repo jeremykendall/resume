@@ -43,13 +43,15 @@ At various times I have contributed to:
 ## Work Experience
 
 ### Graph Story, Memphis, TN
-#### CTO - May 2014 to Present
+#### Lead Developer/CTO - May 2014 to Present
 
- * Responsible for planning, purchase, and implementation of IT infrastructure
- * Project lead and lead developer on all projects (until mid-2015 when we hired a lead dev)
- * Automated the entire Graph Story infrastructure using Ansible and multiple cloud provider APIs
- * Created an API to manage Neo4j so customers could manage their own instances
- * Built out client projects from concept to delivery using Neo4j and Java or PHP
+ * Tech stack: PHP, Slim Framework, Neo4j, MySQL, AWS, DigitalOcean, git, and Stripe
+ * Built our customer facing console at console.graphstory.com and an internal API for Neo4j management using PHP and Slim
+ * Implemented my own open source libraries for password storage and validation and for API authentication (available on GitHub)
+ * Heavy believer in Test Driven Development and automation, using JUnit, PHPUnit, Ansible, Vagrant, and Packer
+ * Neo4j experience includes modeling, tuning, optimization, and deployment of Community, Enterprise and High Availability clusters
+ * Built out our cloud platform integrating disparate APIs allowing customers to use AWS, DigitalOcean, MS Azure, and Google Compute
+ * Used Decorator and Command patterns (among others) to keep our code clean, testable, and maintainable
 
 ### OpenSky, Nashville, TN
 #### Software Engineer - February 2013 to May 2014
@@ -62,8 +64,9 @@ At various times I have contributed to:
 ### Raven Internet Marketing Tools, Nashville, TN
 #### Developer - October 2012 to January 2013
 
-I worked on new tools for Raven’s suite of marketing tools, most significantly
-the Quality Analyzer scoring in the Research Central section.
+ * I worked on new tools for Raven’s suite of marketing tools, most significantly
+the Quality Analyzer scoring in the Research Central section
+ * Worked with svn, PHP, MySQL, and the CodeIgniter framework among other tools
 
 ### InterSec Research, LLC, Memphis, TN
 #### Chief Applications Developer - February 2012 to October 2012
@@ -86,11 +89,11 @@ the Quality Analyzer scoring in the Research Central section.
 ### Methodist Healthcare, Memphis, TN
 #### Java Web Application Developer - May 2009 to August 2010
 
+ * Development environment consists of Windows, Tomcat, Struts 2, Spring, JPA, and Hibernate.
  * Responsible for developing and maintaining web applications for the Methodist Healthcare and Le Bonheur internet and intranet.
  * Introduced Test Driven Development to our programming culture.
  * Lead developer on the Le Bonheur patient acceptance system that allows physicians to request patient referrals online.
  * Lead developer on an employee appreciation ticket purchasing application. End users are able to purchase tickets to an employee appreciation event, while HR is able to manage, track, and report on ticket sales. This is our first application to be developed entirely with Test Driven Development.
- * Development environment consists of Windows, Tomcat, Struts 2, Spring, JPA, and Hibernate.
 
 ### Crye-Leike, Memphis, TN
 #### Web Developer - January 2009 to May 2009
