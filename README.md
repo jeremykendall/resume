@@ -24,13 +24,13 @@ I have authored several popular open source libraries:
  * [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser): Public Suffix List based domain parsing implemented in PHP.
  * [Query Auth](https://github.com/jeremykendall/query-auth): Signature generation and validation for REST API query authentication.
  * [Password Validator](https://github.com/jeremykendall/password-validator): Makes upgrading to secure password hashing both simple and easy.
- * [Slim Auth](https://github.com/jeremykendall/slim-auth): Authorization and authentication for the Slim Framework (work in progress; used in production at [365.jeremykendall.net](http://365.jeremykendall.net).
+ * [Slim Auth](https://github.com/jeremykendall/slim-auth): Authorization and authentication for the Slim Framework.
 
 ## Open Source Contributions
 
 At various times I have contributed to:
 
- * [Slim](https://github.com/codeguy/Slim)
+ * [Slim](https://github.com/slimphp/Slim)
  * [purl](https://github.com/jwage/purl)
  * [Aura.Uri](https://github.com/auraphp/Aura.Uri)
  * [Phansible](https://github.com/Phansible/phansible)
