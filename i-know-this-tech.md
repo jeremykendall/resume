@@ -67,6 +67,13 @@ career progresses.
 ### Cloud Providers
 
 * AWS
+    * S3
+    * Route 53
+    * EC2
+    * AMI creation
+    * Security Groups
+    * CLI tool
+    * PHP and Python SDK
 * DigitalOcean
 * Google Compute Engine
 * Microsoft Azure
@@ -107,3 +114,21 @@ career progresses.
 
 * Jenkins
 * Travis CI
+
+### APIs
+
+* Facebook
+* Flickr
+* Twitter
+* Instagram
+* Stripe
+* Geocodio
+* Google Maps
+* MailChimp
+* Mandrill
+* AWS
+* DigitalOcean
+* Graylog
+* Elasticsearch
+* Neo4j REST API
+* ... more ...
