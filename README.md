@@ -43,7 +43,7 @@ At various times I have contributed to:
 ## Work Experience
 
 ### Graph Story, Memphis, TN
-#### Lead Developer/CTO - May 2014 to Present
+#### Lead Developer/CTO - May 2014 to June 2016
 
  * Tech stack: PHP, Slim Framework, Neo4j, MySQL, AWS, DigitalOcean, git, and Stripe
  * Built our customer facing console at console.graphstory.com and an internal API for Neo4j management using PHP and Slim
